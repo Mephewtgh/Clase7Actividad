@@ -1,0 +1,74 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    padding-left: 5px;
+    size: 20px;
+}
+.logo {
+    display: block;
+    margin-left: 600px;
+    margin-right: 21px;
+}
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    margin-left: 40px;
+}
+.titulo-cv {
+    background-color: #E5E5E5;
+    size: 20px;
+}
+.Lista{
+    position: relative;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    line-height: 23px;
+    margin-left: 50px;
+}
+.esp {
+    font-weight: bold;
+    margin-left: 83px;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+.esp-descripcion {
+    margin-bottom: 10px;
+    margin-left: 163px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.esp-description2 {
+    margin-left: 162px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+footer {
+    align-items: center;
+    background-color: #005677;
+    color: white;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.InfoContacto {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
